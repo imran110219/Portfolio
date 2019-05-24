@@ -12,3 +12,7 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+.indicators{
+  z-index: 3 !important;
+  bottom: 2rem !important;
+}
